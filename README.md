@@ -25,7 +25,7 @@ copies of books. Upon borrowing the return date is stored.
    2. DFD
 4. Provide a ```README.md``` containing the setup guide.
 5. The application should be published in Github via forked repository and for final version of your prototype will create a ```Pull request``` in Github 
-6. You will send the Github link to us thru our email devops@biotechfarms.com on or before **16-02-2025** 12:00 PM
+6. You will send the Github link to us thru our email devops@newbrighton.edu.ph on or before **16-02-2025** 12:00 PM
 
 
     ### **Directory structure**
